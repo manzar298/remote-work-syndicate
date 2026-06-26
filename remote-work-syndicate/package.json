@@ -1,0 +1,12 @@
+{
+  "name": "remote-work-syndicate",
+  "version": "1.0.0",
+  "description": "AI-Powered Job Board Platform for Remote Work Syndicate",
+  "main": "index.html",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
